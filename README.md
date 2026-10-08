@@ -6,8 +6,6 @@ Bu repo, **Pinecone** ve **Sentence Transformers** kullanarak vektör veritabanl
 
 | # | Notebook | Konu | Açıklama |
 |---|----------|------|----------|
-| # | Notebook | Konu | Açıklama |
-|---|----------|------|----------|
 | 1 | [`SemanticSearchDemo.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/SemanticSearchDemo.ipynb) | Anlamsal Arama | Metin benzerliği araması ile temel semantik search |
 | 2 | [`SemanticSearchDemo2.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/SemanticSearchDemo2.ipynb) | Anlamsal Arama (v2) | Farklı veri seti ile semantik search denemesi |
 | 3 | [`RAG_Demo.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/RAG_Demo.ipynb) | RAG | Retrieval Augmented Generation ile LLM'e bağlam sağlama |

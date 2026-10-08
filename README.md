@@ -6,13 +6,15 @@ Bu repo, **Pinecone** ve **Sentence Transformers** kullanarak vektör veritabanl
 
 | # | Notebook | Konu | Açıklama |
 |---|----------|------|----------|
-| 1 | `SemanticSearchDemo.ipynb` | Anlamsal Arama | Metin benzerliği araması ile temel semantik search |
-| 2 | `SemanticSearchDemo2.ipynb` | Anlamsal Arama (v2) | Farklı veri seti ile semantik search denemesi |
-| 3 | `RAG_Demo.ipynb` | RAG | Retrieval Augmented Generation ile LLM'e bağlam sağlama |
-| 4 | `RecommenderSystems.ipynb` | Öneri Sistemleri | İçerik tabanlı öneri sistemi |
-| 5 | `hybrid_search.ipynb` | Hibrit Arama | Sparse (BM25) + Dense (CLIP) vektörlerle hibrit arama |
-| 6 | `anomaly_detection.ipynb` | Anomali Tespiti | Cisco ASA log dosyalarında anomali tespiti |
-| 7 | *(yakında)* | Yüz Benzerliği | DeepFace ile yüz benzerliği araması |
+| # | Notebook | Konu | Açıklama |
+|---|----------|------|----------|
+| 1 | [`SemanticSearchDemo.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/SemanticSearchDemo.ipynb) | Anlamsal Arama | Metin benzerliği araması ile temel semantik search |
+| 2 | [`SemanticSearchDemo2.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/SemanticSearchDemo2.ipynb) | Anlamsal Arama (v2) | Farklı veri seti ile semantik search denemesi |
+| 3 | [`RAG_Demo.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/RAG_Demo.ipynb) | RAG | Retrieval Augmented Generation ile LLM'e bağlam sağlama |
+| 4 | [`RecommenderSystems.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/RecommenderSystems.ipynb) | Öneri Sistemleri | İçerik tabanlı öneri sistemi |
+| 5 | [`hybrid_search.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/hybrid_search.ipynb) | Hibrit Arama | Sparse (BM25) + Dense (CLIP) vektörlerle hibrit arama |
+| 6 | [`anomaly_detection.ipynb`](https://github.com/zeyneptass/vector-databases-and-rag-fundamentals/blob/main/anomaly_detection.ipynb) | Anomali Tespiti | Cisco ASA log dosyalarında anomali tespiti |
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
